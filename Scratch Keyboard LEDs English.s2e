@@ -1,0 +1,1 @@
+{"blockSpecs": [[" ", "%m.keys on", "led_on", "caps lock"], [" ", "%m.keys off", "led_off", "caps lock"], ["w", "blink %m.keys %n times, delay %n us", "led_blink", "caps lock", 5, 100]], "extensionName": "Keyboard LEDs", "menus": {"keys": ["caps lock", "num lock"]}, "extensionPort": 5001}
